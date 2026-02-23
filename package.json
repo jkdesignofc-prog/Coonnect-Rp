@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "deploy": "node src/deploy-commands.js",
+    "start": "node src/index.js"
+  }
+}
